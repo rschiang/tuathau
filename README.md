@@ -1,7 +1,7 @@
 Tuathau
 =======
 
-Firefox extension to Make Plurk avatars larger.
+Firefox extension that makes [Plurk](https://plurk.com/) avatars larger.
 
 Install on [Mozilla Addons](https://addons.mozilla.org/zh-TW/firefox/addon/plurk-tuathau/).
 
