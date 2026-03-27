@@ -3,7 +3,9 @@
   "name": "Tuathau",
   "version": "0.1",
   "description": "Make Plurk avatars larger",
-  "icons": null,
+  "icons": {
+    "48": "icon.svg"
+  },
   "browser_specific_settings": {
     "gecko": {
       "id": "tuathau@rschiang.dev",
